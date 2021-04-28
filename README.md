@@ -11,6 +11,6 @@ for this i use chrome deiver
 4. After that unzip the downloaded file and put it in your current working directory of project.
 5. then after this run the programme and follow the instruction 
 
-# errors
+# Errors
 1. if anyone get error of chrome driver then update the browser and re download the chrome driver.
 
